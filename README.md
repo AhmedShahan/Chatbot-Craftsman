@@ -44,3 +44,20 @@ GOOGLE_API_KEY="your-gemini-api"
 COHERE_API_KEY="your-cohere-api"
 HUGGINGFACEHUB_API_TOKEN="your-huggingface-api"
 ```
+### 📦 Install Dependencies
+Install all required packages:  
+```
+pip install -r requirements.txt
+```
+<details>
+  <summary><strong>🧠 Accessing LLM</strong></summary>
+
+  <ul>
+    <li>🧾 <strong>Prompt in Code</strong> – Directly use Python scripts to interact with LLMs using API calls.</li>
+    <li>💻 <strong>Prompt in Terminal (Unlimited Chat)</strong> – Chat with your model directly via command line in an unlimited loop.</li>
+    <li>🌐 <strong>Prompt in Streamlit</strong> – Launch a lightweight Streamlit app for a clean UI experience.</li>
+    <li>🗂 <strong>Chat History</strong> – Store and retrieve previous interactions from local memory or database.</li>
+    <li>📜 <strong>Streamlit Access with History</strong> – Use the web interface with session-based or saved conversation history.</li>
+  </ul>
+
+</details>
