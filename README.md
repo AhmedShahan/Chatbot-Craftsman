@@ -49,7 +49,13 @@ Install all required packages:
 ```
 pip install -r requirements.txt
 ```
-## 🧭 Getting Started
+<div align="center">
+  <h1>🧭 Getting Started</h1>
+</div>
+
+## Accessing LLM
 ### Prompt In code. 
 This is a basic code basis initial chatbot, Just change the Prompt text and run the code. The print or output will be the response. 
 picture
+<img src="https://github.com/user-attachments/assets/e5bca00f-6ab1-4c61-b183-6b0f95c39bf6" alt="chatbot1" width="800" height="300">
+
