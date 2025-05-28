@@ -75,10 +75,11 @@ Now Install LLMs from https://ollama.com/search what you desire and based on you
   * ```ollama run deepseek-r1```
   * ```ollama run llama3.2```
   * ```ollama run gemma3```
-picture  
 
-Main code: 
 
+<img src="https://github.com/user-attachments/assets/711092fd-f764-4a94-9bd1-7c9e77583f64" alt="chatbot1" width="800" height="300">  
+
+Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/1.1_prompt_inCode_ollama.py 
 
 
 </details>
