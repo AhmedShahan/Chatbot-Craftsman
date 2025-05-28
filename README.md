@@ -83,8 +83,8 @@ Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessCh
 </details>
 <details><summary>🖱️⌨️ PROMPT IN TERMINAL</summary>
 There will be a while loop where you can prompt and answer. If the user type exit then the chatbot will be terminated.   
-picture
+        
+![chatbot2](https://github.com/user-attachments/assets/799969b5-f6aa-4d68-a7c1-183652b1d370)
 
-
-Main code: 
+Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/2_prompt_in_terminal.py  
 </details>
