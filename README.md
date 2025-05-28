@@ -49,15 +49,7 @@ Install all required packages:
 ```
 pip install -r requirements.txt
 ```
-<details>
-  <summary><strong>🧠 Accessing LLM</strong></summary>
-
-  <ul>
-    <li>🧾 <strong>Prompt in Code</strong> – Directly use Python scripts to interact with LLMs using API calls.</li>
-    <li>💻 <strong>Prompt in Terminal (Unlimited Chat)</strong> – Chat with your model directly via command line in an unlimited loop.</li>
-    <li>🌐 <strong>Prompt in Streamlit</strong> – Launch a lightweight Streamlit app for a clean UI experience.</li>
-    <li>🗂 <strong>Chat History</strong> – Store and retrieve previous interactions from local memory or database.</li>
-    <li>📜 <strong>Streamlit Access with History</strong> – Use the web interface with session-based or saved conversation history.</li>
-  </ul>
-
-</details>
+## 🧭 Getting Started
+### Prompt In code. 
+This is a basic code basis initial chatbot, Just change the Prompt text and run the code. The print or output will be the response. 
+picture
