@@ -61,5 +61,24 @@ This is a basic code basis initial chatbot, Just change the Prompt text and run 
 <img src="https://github.com/user-attachments/assets/e5bca00f-6ab1-4c61-b183-6b0f95c39bf6" alt="chatbot1" width="800" height="300">
 Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/1_prompt_in_code.py  
 
-If you are using GPU then you can use Huggingface or Ollama to access more LLMs
+**If you are using GPU then you can use Huggingface or Ollama to access more LLMs**
+Install Ollama from the terminal  
+```
+pip install langchain-ollama
+```
+Now Install ollama in your PC  
+  - For Linux: ```curl -fsSL https://ollama.com/install.sh | sh```
+  - For Windows: https://ollama.com/download/windows 
+  - For MacOS : https://ollama.com/download/mac   
+
+Now Install LLMs from https://ollama.com/search what you desire and based on your GPU  
+  * ```ollama run deepseek-r1```
+  * ```ollama run llama3.2```
+  * ```ollama run gemma3```
+picture  
+
+Main code: 
+
+
+
 </details>
