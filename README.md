@@ -80,6 +80,11 @@ Now Install LLMs from https://ollama.com/search what you desire and based on you
 <img src="https://github.com/user-attachments/assets/711092fd-f764-4a94-9bd1-7c9e77583f64" alt="chatbot1" width="800" height="300">  
 
 Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/1.1_prompt_inCode_ollama.py 
+</details>
+<details><summary>🖱️⌨️ PROMPT IN TERMINAL</summary>
+There will be a while loop where you can prompt and answer. If the user type exit then the chatbot will be terminated.   
+picture
 
 
+Main code: 
 </details>
