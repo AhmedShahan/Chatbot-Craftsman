@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Accessing LLM
  
-<details><summary>▶️ PROMPT IN CODE</summary>
+<details><summary>▶️ 1. PROMPT IN CODE</summary>
 
 This is a basic code basis initial chatbot, Just change the Prompt text and run the code. The print or output will be the response. 
 <img src="https://github.com/user-attachments/assets/e5bca00f-6ab1-4c61-b183-6b0f95c39bf6" alt="chatbot1" width="800" height="300">
@@ -81,10 +81,16 @@ Now Install LLMs from https://ollama.com/search what you desire and based on you
 
 Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/1.1_prompt_inCode_ollama.py 
 </details>
-<details><summary>🖱️⌨️ PROMPT IN TERMINAL</summary>
+
+
+<details><summary>🖱️⌨️ 2. PROMPT IN TERMINAL</summary>
 There will be a while loop where you can prompt and answer. If the user type exit then the chatbot will be terminated.   
         
 ![chatbot2](https://github.com/user-attachments/assets/799969b5-f6aa-4d68-a7c1-183652b1d370)
 
 Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/2_prompt_in_terminal.py  
+</details>
+
+<details><summary>🖱️⌨️ 3. CHATBOT IN STREAMLIT</summary>
+
 </details>
