@@ -92,5 +92,8 @@ Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessCh
 </details>
 
 <details><summary>🖱️⌨️ 3. CHATBOT IN STREAMLIT</summary>
+Previous Chatbot in Streamlit UI  
+picture
 
+Main Code: 
 </details>
