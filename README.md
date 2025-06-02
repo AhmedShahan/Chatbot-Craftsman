@@ -86,14 +86,15 @@ Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessCh
 <details><summary>🖱️⌨️ 2. PROMPT IN TERMINAL</summary>
 There will be a while loop where you can prompt and answer. If the user type exit then the chatbot will be terminated.   
         
-![chatbot2](https://github.com/user-attachments/assets/799969b5-f6aa-4d68-a7c1-183652b1d370)
+![chatbot2](https://github.com/user-attachments/assets/799969b5-f6aa-4d68-a7c1-183652b1d370)  
 
 Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/2_prompt_in_terminal.py  
 </details>
 
 <details><summary>🖱️⌨️ 3. CHATBOT IN STREAMLIT</summary>
 Previous Chatbot in Streamlit UI  
-picture
+<img src="https://github.com/user-attachments/assets/4ab3a6dd-1be5-4e20-928c-c6c3816407df" alt="chatbot2" width="600" height="800">  
 
-Main Code: 
+
+Main Code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/3_chatbot_in_streamlit.py  
 </details>
