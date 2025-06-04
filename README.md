@@ -102,7 +102,7 @@ Main Code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessCh
 
 <details><summary>🖱️⌨️ 4. PROBLEM IN PREVIOUS CHATBOT</summary>
 
-<img src="https://github.com/user-attachments/assets/4ab3a6dd-1be5-4e20-928c-c6c3816407df" alt="chatbot2" width="600" height="800">  
+<img src="https://github.com/user-attachments/assets/dd155c34-42e9-4908-a613-58ba09d70fc8" alt="chatbot2" width="800" height="400">  
 
 **Explanation**
 এখানে প্রথমে বলা হয়েছিল যে সর্বোচ্চ সংখ্যা বের করতে। এটা আমাদের চেটবট পেরেছে।   
@@ -115,5 +115,5 @@ Main Code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessCh
 আমরা সবকিছুই তাকে দ্বিয়ে দিবো।  
 মানে হলও আমরা চেটবট কে শুধু প্রশ্নও করবও না সাথে করে History ও দিয়ে দিব। 
 
-Main Code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/3_chatbot_in_streamlit.py  
+Main Code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/5_problemInPreviousChatbot.py  
 </details>
