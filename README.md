@@ -91,7 +91,7 @@ There will be a while loop where you can prompt and answer. If the user type exi
 Main code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/2_prompt_in_terminal.py  
 </details>
 
-<details><summary>🖱️⌨️ 3. CHATBOT IN STREAMLIT</summary>
+<details><summary>🖥️ 3. CHATBOT IN STREAMLIT</summary>
 Previous Chatbot in Streamlit UI  
 <img src="https://github.com/user-attachments/assets/4ab3a6dd-1be5-4e20-928c-c6c3816407df" alt="chatbot2" width="600" height="800">  
 
@@ -100,9 +100,8 @@ Main Code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessCh
 </details>
 
 
-<details><summary>🖱️⌨️ 4. PROBLEM IN PREVIOUS CHATBOT</summary>
-
-<img src="https://github.com/user-attachments/assets/dd155c34-42e9-4908-a613-58ba09d70fc8" alt="chatbot2" width="800" height="400">  
+<details><summary>⚠️ 4. PROBLEM IN PREVIOUS CHATBOT</summary>
+<img src="https://github.com/user-attachments/assets/4ab3a6dd-1be5-4e20-928c-c6c3816407df" alt="chatbot2" width="600" height="800">  
 
 **Explanation**
 এখানে প্রথমে বলা হয়েছিল যে সর্বোচ্চ সংখ্যা বের করতে। এটা আমাদের চেটবট পেরেছে।   
@@ -116,4 +115,16 @@ Main Code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessCh
 মানে হলও আমরা চেটবট কে শুধু প্রশ্নও করবও না সাথে করে History ও দিয়ে দিব। 
 
 Main Code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/5_problemInPreviousChatbot.py  
+</details>
+
+
+<details><summary>🧨 5. SOLUTION OF THE CHATBOT. METHOD:1</summary>
+
+
+We can use a list. Every time we will append the list and while invoke **WE WILL PASS THE ENTIRE LIST**
+<img src="https://github.com/user-attachments/assets/4ab3a6dd-1be5-4e20-928c-c6c3816407df" alt="chatbot2" width="600" height="800">  
+
+
+
+Main Code: https://github.com/AhmedShahan/Chatbot-Craftsman/blob/main/1_AccessChatLLM/3_chatbot_in_streamlit.py  
 </details>
